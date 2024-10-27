@@ -1,0 +1,76 @@
+body{
+    
+    width: 50%;
+    margin: auto;
+    background-color: aqua;
+
+}
+main{
+    background-color: bisque;
+    width: 70%;
+    border: 2px solid black; 
+    padding: 4px;
+
+}
+p{
+    background-color: blue;
+    color:whitesmoke;
+}
+.eldredstyles{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: bisque;
+    color:red;
+}
+
+/*ul{
+    text-decoration: none;
+}
+li{
+    display: block;    
+}
+a{
+    text-decoration: none;
+}*/
+
+.sectionstyle{
+  
+    background-color: bisque;
+}
+
+#h1styles{
+    color:red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+/*Nav menu styling*/
+
+ul{
+   
+}
+
+ul>li{
+    list-style: none;
+    display: inline;
+}
+ul>li>a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(21, 54, 217);
+    margin-left: 4px;
+    padding: 5px;
+}
+ul>li>a:hover{
+    color:rgba(13, 13, 12);
+    background-color: rgb(248, 252, 3);
+}
+.selected{
+    color:red;
+    background-color:bisque;
+}
+
+h1{
+    color: red;
+}
+
+
